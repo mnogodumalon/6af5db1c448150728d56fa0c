@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "en": {
+      "Alle Umfragen sind entschieden.": "All polls have been decided.",
+      "Antwort": "Response",
+      "Antworten gesamt": "Total responses",
+      "Bei {0} gibt es noch keine Antworten — teile den Link.": "{0} has no responses yet — share the link.",
+      "Besten Termin festlegen & schließen": "Set best date & close",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Festlegen & schließen": "Set & close",
+      "Finaler Termin": "Final date",
+      "Ja": "Yes",
+      "Keine Umfrage in dieser Auswahl.": "No polls in this selection.",
+      "Lege deine erste Umfrage an und teile den Link.": "Create your first poll and share the link.",
+      "Link kopieren": "Copy link",
+      "Link kopiert": "Link copied",
+      "Link zum Kopieren": "Link to copy",
+      "Meiste Ja": "Most yes",
+      "Nein": "No",
+      "Neue Umfrage": "New poll",
+      "Noch keine Terminvorschläge — füge welche hinzu.": "No date proposals yet — add some.",
+      "Noch keine Umfrage vorhanden.": "No polls yet.",
+      "Offene Umfragen": "Open polls",
+      "Ohne Antworten": "No responses",
+      "Ohne finalen Termin": "No final date",
+      "QR-Code öffnen": "Open QR code",
+      "Vielleicht": "Maybe",
+      "{0} wartet auf deine Entscheidung.": "{0} is waiting for your decision."
+    }
+  },
+  "v": 1
+}
